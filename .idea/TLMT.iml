@@ -3,6 +3,13 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/.creator" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/library" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/local" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/profiles" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/settings" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/temp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
