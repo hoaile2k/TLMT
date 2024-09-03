@@ -1,0 +1,56 @@
+export class AssetsDefine {
+    public static readonly MAP_CARD_ASSET: {
+        1: "card_1", //A Bích
+        2: "card_2", //2 Bích
+        3: "card_3", //3 Bích
+        4: "card_4", //4 Bích
+        5: "card_5", //5 Bích
+        6: "card_6", //6 Bích
+        7: "card_7", //7 Bích
+        8: "card_8", //8 Bích
+        9: "card_9", //9 Bích
+        10: "card_10", //10 Bích
+        11: "card_11", //J Bích
+        12: "card_12", //Q Bích
+        13: "card_13", //K Bích
+        14: "card_14", //A Chuồn
+        15: "card_15", //2 Chuồn
+        16: "card_16", //3 Chuồn
+        17: "card_17", //4 Chuồn
+        18: "card_18", //5 Chuồn
+        19: "card_19", //6 Chuồn
+        20: "card_20", //7 Chuồn
+        21: "card_21", //8 Chuồn
+        22: "card_22", //9 Chuồn
+        23: "card_23", //10 Chuồn
+        24: "card_24", //J Chuồn
+        25: "card_25", //Q Chuồn
+        26: "card_26", //K Chuồn
+        27: "card_27", //A Bích
+        28: "card_28", //2 Bích
+        29: "card_29", //3 Bích
+        30: "card_30", //4 Bích
+        31: "card_31", //5 Bích
+        32: "card_32", //6 Bích
+        33: "card_33", //7 Bích
+        34: "card_34", //8 Bích
+        35: "card_35", //9 Bích
+        36: "card_36", //10 Bích
+        37: "card_37", //J Bích
+        38: "card_38", //Q Bích
+        39: "card_39", //K Bích
+        40: "card_40", //A Chuồn
+        41: "card_41", //2 Chuồn
+        42: "card_42", //3 Chuồn
+        43: "card_43", //4 Chuồn
+        44: "card_44", //5 Chuồn
+        45: "card_45", //6 Chuồn
+        46: "card_46", //7 Chuồn
+        47: "card_47", //8 Chuồn
+        48: "card_48", //9 Chuồn
+        49: "card_49", //10 Chuồn
+        50: "card_50", //J Chuồn
+        51: "card_51", //Q Chuồn
+        52: "card_52", //K Chuồn
+    }
+}
