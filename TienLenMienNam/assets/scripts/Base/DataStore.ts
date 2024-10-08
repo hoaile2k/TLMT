@@ -3,12 +3,13 @@ const { ccclass, property } = _decorator;
 
 @ccclass('DataStore')
 export class DataStore extends Component {
-    start() {
-
+    _userId;
+    setUserId(userId) {
+        this._userId = userId;
     }
 
-    update(deltaTime: number) {
-        
+    getUserId() {
+        return this._userId;
     }
 }
 

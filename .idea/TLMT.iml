@@ -12,6 +12,11 @@
       <excludeFolder url="file://$MODULE_DIR$/TienLenMienTay/temp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienNam/library" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienNam/local" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienNam/profiles" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienNam/settings" />
+      <excludeFolder url="file://$MODULE_DIR$/TienLenMienNam/temp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
